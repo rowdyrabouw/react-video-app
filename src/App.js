@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <video-component vimeo="705066644"></video-component>
+        <video-component vimeo="817910772?h=262663fd68"></video-component>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
